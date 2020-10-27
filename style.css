@@ -1,0 +1,82 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+.button {
+  background-color: cadetblue;
+  border-radius: 10px;
+  color: white;
+  margin: 5px;
+}
+.makeMoney {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.coinContainer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.penny {
+  background-color: #ad6f69;
+  height: 62px;
+  width: 62px;
+  border-radius: 50%;
+  border: 2px solid #885752;
+  margin: 3px;
+}
+.nickel {
+  background-color: #949694;
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  border: 2px solid #6d6e6d;
+  margin: 3px;
+}
+.dime {
+  background-color: #9fa19f;
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+  border: 2px dashed #848584;
+  margin: 3px;
+}
+.quarter {
+  background-color: #727472;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  border: 2.5px dashed #5b5c5b;
+  margin: 3px;
+}
+.lastQuestion {
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+}
+.lightBulb {
+  background-color: grey;
+  height: 25px;
+  width: 100px;
+  border-radius: 45%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: lightgrey;
+}
+
+.light {
+  background-color: rgb(64, 111, 112);
+  border-radius: 10px;
+  color: white;
+  margin: 5px;
+  /* height: 25px; */
+}
+
+.yellow {
+  background-color: yellow;
+  color: gray;
+}
